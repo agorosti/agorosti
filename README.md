@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Bienvenidos a mi GITHUB.
+
+En este GitHub podreis encontrar los repositorios en los que trabajo.
+
+Dentro de mi rol de profesor, imparto clases de programación.   Aqui podreis encontrar ejercicios, y laboratorios que comparto con mis alumnos.
+
+
 <!--
 **agorosti/agorosti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
