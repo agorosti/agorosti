@@ -24,6 +24,3 @@ Si tienes interés en colaborar en proyectos innovadores o simplemente quieres s
 📧 [andres.gorostidi@gmail.com](mailto:andres.gorostidi@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/andresgorostidi)  
 🌍 [Mi sitio web](https://www.gorostidi.net)
-
-- ⚡ Fun fact: ...
--->
